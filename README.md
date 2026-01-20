@@ -4,7 +4,7 @@ I'm acing
 
 This is a collection of reference implementations for Vector Institute's **RAG (Retrieval-Augmented Generation) Bootcamp**, scheduled to take place from Nov 2024 to Jan 2025. It demonstrates some of the common methodologies used in RAG workflows (data ingestion, chunks, embeddings, vector databases, sparse/dense retrieval, reranking) using the popular Python [LangChain](https://python.langchain.com/docs/get_started/introduction) and [LlamaIndex](https://docs.llamaindex.ai/en/stable/) libraries.
 
-## Reference Implementations
+## Ref
 
 This repository includes several reference implementations showing different approaches and methodologies related to Retrieval-Augmented Generation.
 
